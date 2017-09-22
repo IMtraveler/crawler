@@ -144,5 +144,4 @@ AIzaSyDUXjdEFQXQ9j59FWlRHZTlaAfyj2Qiuu0
 https://maps.googleapis.com/maps/api/geocode/json?address=040-0001&key=AIzaSyDUXjdEFQXQ9j59FWlRHZTlaAfyj2Qiuu0
 
 """
-
 #在Windows執行的話要在cmd輸入: chcp 65001   (從cp950編碼轉換為UTF-8)
